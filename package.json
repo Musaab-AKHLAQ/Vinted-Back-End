@@ -1,0 +1,29 @@
+{
+  "name": "vinted-back-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musaab-AKHLAQ/Vinted-Back-End.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Musaab-AKHLAQ/Vinted-Back-End/issues"
+  },
+  "homepage": "https://github.com/Musaab-AKHLAQ/Vinted-Back-End#readme",
+  "description": "",
+  "dependencies": {
+    "cloudinary": "^2.6.1",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-fileupload": "^1.5.1",
+    "mongoose": "^8.14.3",
+    "uid2": "^1.0.0"
+  }
+}
